@@ -110,7 +110,7 @@ public final class Tools {
     public static String DIR_DATA; //Initialized later to get context
     public static File DIR_CACHE;
     public static String MULTIRT_HOME;
-    public static String LOCAL_RENDERER = null;
+    public static String LOCAL_RENDERER = "gl4es";
     public static int DEVICE_ARCHITECTURE;
     public static final String LAUNCHERPROFILES_RTPREFIX = "pojav://";
 
